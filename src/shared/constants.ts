@@ -1,5 +1,5 @@
 export const BASE_URL_PRODUCTION = 'https://partner.shopeemobile.com';
-export const BASE_URL_UAT = 'https://partner.test-stable.shopeemobile.com';
+export const BASE_URL_UAT = 'https://openplatform.sandbox.test-stable.shopee.sg';
 
 export const API_PATHS = {
   AUTH: {

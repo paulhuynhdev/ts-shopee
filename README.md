@@ -1,4 +1,4 @@
-# Shopee Client Library
+# TS Shopee
 
 A modular, type-safe TypeScript client library for integrating with Shopee's Partner API.
 
